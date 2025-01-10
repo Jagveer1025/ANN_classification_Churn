@@ -1,0 +1,16 @@
+scikit-learn 
+numpy 
+pandas
+matplotlib
+bs4
+flask
+seaborn
+ipykernel
+streamlit
+wordcloud
+emoji
+torch 
+transformers
+pillow
+tensorflow==2.16.1
+tensorboard
